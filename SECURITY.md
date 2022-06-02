@@ -10,7 +10,7 @@ If you believe you have found a security vulnerability in any of my repositories
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to aa.security.report[@]icloud.com.
+Instead, please send an email to aa.opensource[@]icloud.com.
 
 Please include as much of the information listed below as you can to help me better understand and resolve the issue:
 
