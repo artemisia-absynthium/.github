@@ -6,7 +6,7 @@ I take the security of my software seriously and I will ensure that your finding
 
 ## Reporting Security Issues
 
-If you believe you have found a security vulnerability in any of my repositories, please report it to me through coordinated disclosure.
+If you believe you have found a security vulnerability in any of my not archived repositories, please report it to me through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
